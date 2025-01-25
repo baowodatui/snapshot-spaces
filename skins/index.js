@@ -1,4 +1,5 @@
 import aave from './aave.scss';
+import aitech from './aitech.scss';
 import cryptopugz from './cryptopugz.scss';
 import aavegotchi from './aavegotchi.scss';
 import achievmintry from './achievmintry.scss';
@@ -185,6 +186,7 @@ import oaklanddao from './oaklanddao.scss';
 import oceandao from './oceandao.scss';
 import octofi from './octofi.scss';
 import omg from './omg.scss';
+import origin from "./origin.scss";
 import paladin from './paladin.scss';
 import pancake from './pancake.scss';
 import pandayield from './pandayield.scss';
@@ -305,6 +307,7 @@ import infinex from './infinex.scss';
 
 export default {
   aave,
+  aitech,
   cryptopugz,
   aavegotchi,
   achievmintry,
@@ -494,6 +497,7 @@ export default {
   oceandao,
   octofi,
   omg,
+  origin,
   paladin,
   pancake,
   pandayield,
